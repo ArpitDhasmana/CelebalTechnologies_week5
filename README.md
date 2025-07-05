@@ -2,11 +2,11 @@
 
 This project is focused on predicting house prices using various regression models. The dataset used is from the [Kaggle House Prices - Advanced Regression Techniques competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data).
 
-## 🌐 Live Demo
+## Live Demo
 You can view the project hosted via GitHub Pages here:
-👉 https://arpitdhasmana.github.io/CelebalTechnologies_week5/
+https://arpitdhasmana.github.io/CelebalTechnologies_week5/
 
-## 📂 Files Included
+## Files Included
 
 - `train.csv`: Training dataset
 - `test.csv`: Test dataset
@@ -14,7 +14,7 @@ You can view the project hosted via GitHub Pages here:
 - `house_price_prediction.ipynb`: Jupyter notebook containing the full pipeline
 - `house_price_prediction.html`: HTML export of the notebook (for viewing without Jupyter)
 
-## 🔍 Workflow Overview
+## Workflow Overview
 
 1. **Data Preprocessing & Feature Engineering**
    - Handling missing values
@@ -41,14 +41,14 @@ You can view the project hosted via GitHub Pages here:
    - Mean Absolute Error (MAE) used for evaluation
    - Bar plot comparing performance of all models
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - NumPy, Pandas, Matplotlib, Seaborn
 - Scikit-learn
 - Jupyter Notebook
 
-## 🚀 How to Run
+## How to Run
 
 1. Install requirements (optional):
     ```bash
