@@ -2,6 +2,10 @@
 
 This project is focused on predicting house prices using various regression models. The dataset used is from the [Kaggle House Prices - Advanced Regression Techniques competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data).
 
+## 🌐 Live Demo
+You can view the project hosted via GitHub Pages here:
+👉 https://arpitdhasmana.github.io/CelebalTechnologies_week5/
+
 ## 📂 Files Included
 
 - `train.csv`: Training dataset
